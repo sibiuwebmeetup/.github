@@ -20,10 +20,4 @@ Scriem articole, despre teme web, pe dev.to. Poti citi toate articolele noastre�
 
 Suntem pe [Twitter](https://twitter.com/sibiuwebmeetup), [Facebook](https://www.facebook.com/sibiuwebmeetup), [LinkedIn](https://www.linkedin.com/showcase/sibiu-web-meetups/).
 
-Avem si un group pe [Slack](https://sibiuwebmeetup.slack.com) (doar pe baza de invitatie). Contacteaza-ne daca doresti sa te alaturi grupului nostru de Slack.  
-
-**GitHub**
-
-Suntem prezenti si pe [Github](https://github.com/sibiuwebmeetup).
-
-_PS. Daca ai vreo idee, experienta, o resursa sau o modificare care crezi ca ar trebui sa fie prezenta intr-unul dintre proiectele noastre de pe Github, nu ezita sa trimiti un pull request. :D_
+Avem si un group pe [Slack](https://sibiuwebmeetup.slack.com) (doar pe baza de invitatie). Contacteaza-ne daca doresti sa te alaturi grupului nostru de Slack.
