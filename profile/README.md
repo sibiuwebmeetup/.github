@@ -1,4 +1,4 @@
-Aceasta este un meetup gratuit, pentru oricine este interesat de web development, web design și de toate celelalte subiecte legate de web. Toate nivelurile de cunostiinte sunt binevenite, fie studenții, juniorii și senior devs. Un meetup care se învârte în jurul ideii schimbului de cunoștințe și a construirii unei comunității.
+Sibiu Web Meetup, fondat în 2018, este un meetup gratuit deschis tuturor celor interesați de dezvoltarea web, design web și subiecte aferente. Aici, experiența nu contează, oricine este binevenit, fie că ești student, junior sau dev senior. Un meetup care se concentrează pe schimbul de cunoștințe și pe construirea unei comunități.
 
 Sibiu Web Meetup face parte din angajamentul pentru educație și dezvoltare a comunității asumat de Ropardo, o companie sibiană de software engineering care lucrează pentru clienți din întreaga lume. Află mai multe [aici](https://ropardo.ro/company/ropardo-culture/social-responsibility/).
 
@@ -10,7 +10,7 @@ NECESAR: o atitudine pozitivă și toleranță zero pentru stereotipuri. Consult
 
 Ai ratat o prezentare? Le poti vizualiza pe canalul nostru de [YouTube](https://www.youtube.com/@sibiuwebmeetup) (like, share & subscribe).
 
-_PS. Daca iti doresti sa susti o prezentare in fata unor oameni uimitori, completeaza formularul de [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSd7IiGJ-fVWoQw_SfwVNdnFP1yc8sA1QDDl-fJ61U4htFpMAA/viewform)._
+Esti pasionat(a) de un anumit subiect si vrei impartasesti acest lucru si cu alti oameni? Completeaza formularul de [Call for Speakers](https://bit.ly/SibiuWebMeetupCFS).
 
 **Articole**
 
