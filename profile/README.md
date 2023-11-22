@@ -1,4 +1,4 @@
-![Friendlyrb_Ruby_Conference_2023_Day_1_010](https://github.com/sibiuwebmeetup/.github/assets/1278794/5beda0ec-8030-4973-b4fd-663cd946624a)
+![Meetup Cover](https://github.com/sibiuwebmeetup/.github/assets/1278794/b2fdef93-e464-4a72-ba9c-00aa3b0cc0d7)
 
 Sibiu Web Meetup, fondat în 2018, este un meetup gratuit deschis tuturor celor interesați de dezvoltarea web, design web și subiecte aferente. Aici, experiența nu contează, oricine este binevenit, fie că ești student, junior sau dev senior. Un meetup care se concentrează pe schimbul de cunoștințe și pe construirea unei comunități.
 
